@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kadenonarch/c#/Bored/Bored.csproj": {}
+  },
+  "projects": {
+    "/home/kadenonarch/c#/Bored/Bored.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kadenonarch/c#/Bored/Bored.csproj",
+        "projectName": "Bored",
+        "projectPath": "/home/kadenonarch/c#/Bored/Bored.csproj",
+        "packagesPath": "/home/kadenonarch/.nuget/packages/",
+        "outputPath": "/home/kadenonarch/c#/Bored/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kadenonarch/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "NewtonSoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.0, 7.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

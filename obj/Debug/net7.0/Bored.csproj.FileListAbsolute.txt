@@ -1,0 +1,17 @@
+/home/kadenonarch/c#/Bored/bin/Debug/net7.0/Bored
+/home/kadenonarch/c#/Bored/bin/Debug/net7.0/Bored.deps.json
+/home/kadenonarch/c#/Bored/bin/Debug/net7.0/Bored.runtimeconfig.json
+/home/kadenonarch/c#/Bored/bin/Debug/net7.0/Bored.dll
+/home/kadenonarch/c#/Bored/bin/Debug/net7.0/Bored.pdb
+/home/kadenonarch/c#/Bored/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/kadenonarch/c#/Bored/obj/Debug/net7.0/Bored.csproj.AssemblyReference.cache
+/home/kadenonarch/c#/Bored/obj/Debug/net7.0/Bored.GeneratedMSBuildEditorConfig.editorconfig
+/home/kadenonarch/c#/Bored/obj/Debug/net7.0/Bored.AssemblyInfoInputs.cache
+/home/kadenonarch/c#/Bored/obj/Debug/net7.0/Bored.AssemblyInfo.cs
+/home/kadenonarch/c#/Bored/obj/Debug/net7.0/Bored.csproj.CoreCompileInputs.cache
+/home/kadenonarch/c#/Bored/obj/Debug/net7.0/Bored.csproj.CopyComplete
+/home/kadenonarch/c#/Bored/obj/Debug/net7.0/Bored.dll
+/home/kadenonarch/c#/Bored/obj/Debug/net7.0/refint/Bored.dll
+/home/kadenonarch/c#/Bored/obj/Debug/net7.0/Bored.pdb
+/home/kadenonarch/c#/Bored/obj/Debug/net7.0/Bored.genruntimeconfig.cache
+/home/kadenonarch/c#/Bored/obj/Debug/net7.0/ref/Bored.dll
